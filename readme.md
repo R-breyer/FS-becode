@@ -1,3 +1,6 @@
+
+![link](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNWR2eTkxdTFvMHo0eWZiZGM1aDN6dDF5YjQ3eHZtaGk1Y2VldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HBduC3ZIgrG8/giphy.webp)
+
 #Mon aventure de stagiaire en Web developement chez becode 
 
 Je m'appelle **Robin**, j'ai 30 ans, J'habite à Liège et après avoir passé toute ma vie a travailler dans le domaine scientifique j'ai décidé de me reformer et de me lancer dans l'aventure IT
